@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818344021360",
+    "project_id": "hajras-aeb7f",
+    "storage_bucket": "hajras-aeb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818344021360:android:1e18db6b664f74b8bb13b5",
+        "android_client_info": {
+          "package_name": "com.Hajras.hajrasapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdw3IBtPBFE8PrIFZMY89oiS0Ja-m5vDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
